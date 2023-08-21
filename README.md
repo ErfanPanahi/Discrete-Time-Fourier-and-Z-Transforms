@@ -1,7 +1,7 @@
 # Discrete-Time-Fourier-and-Z-Transforms
 In this repository, I delve into examining the properties of the Z-transform and discrete Fourier transform, along with various applications of these two transforms.
 
-The completed sections of the project are as follows:
+The completed sections of the project are as follows: (CA1_Matlab_810198369.mlx)
 
 **1- Simulation of Signal Processing Blocks**
 
